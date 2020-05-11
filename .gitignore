@@ -126,3 +126,4 @@ dmypy.json
 
 #Other files
 *.ini
+*.json
