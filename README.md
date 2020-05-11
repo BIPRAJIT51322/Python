@@ -1,2 +1,3 @@
 # Python
- This repo has all my python projects
+ In this repository you will find my projects of python made by me
+ 
