@@ -1,0 +1,5 @@
+print("Welcome!!\n", "Enter the first number: ")
+a=input()
+print("Enter the second number: ")
+b=input()
+print("Result: ", int(a+b))
